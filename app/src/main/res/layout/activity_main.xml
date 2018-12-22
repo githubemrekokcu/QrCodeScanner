@@ -15,11 +15,11 @@
 
         <TextView
             android:layout_margin="10dp"
-            android:textStyle="bold"
+            android:textStyle="bold|italic"
             android:textSize="20sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/txtContent"/>
+            android:id="@+id/txtContent" />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
